@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * Counting
-* Language_Modeling
+* Language Modeling
 
 ## Extra Resources
 * Speech and Language Processing 3rd edition: https://web.stanford.edu/~jurafsky/slp3/
